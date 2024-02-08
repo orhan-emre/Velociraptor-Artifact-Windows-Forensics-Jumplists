@@ -1,4 +1,4 @@
-name: Custom.Windows.Applications.Jumplists.AutomaticDestinations_JLECmd
+name: Windows.Forensics.Jumplists.AutomaticDestinations
 description: |
     * Execute Eric Zimmerman's JLECmd to parse AUTOMATICDESTINATIONS-MS files in C:\ drive recursively and return output for analysis. (jlecmd.exe -d C:/ --csvf -csv tmpdir results.csv). 
     * JLECmd.zip is downloaded from the URL to 'C:\Program Files\Velociraptor\Tools' folder.   
